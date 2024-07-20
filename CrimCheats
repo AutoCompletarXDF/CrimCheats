@@ -8,7 +8,7 @@ local SpeedSpin = 0
 local gui = Instance.new("ScreenGui")
 
 gui.Parent = game.CoreGui
-gui.Name = "ScriptHub"
+gui.Name = "CrimCheats"
 gui.ResetOnSpawn = false
 
 local mainframe = Instance.new("Frame")
